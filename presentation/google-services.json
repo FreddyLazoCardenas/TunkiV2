@@ -1,0 +1,211 @@
+{
+  "project_info": {
+    "project_number": "1072951202997",
+    "firebase_url": "https://pe-grupo-intercorp-cld-01.firebaseio.com",
+    "project_id": "pe-grupo-intercorp-cld-01",
+    "storage_bucket": "pe-grupo-intercorp-cld-01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072951202997:android:4a27905e350f83da",
+        "android_client_info": {
+          "package_name": "pe.indigital.tunki.business"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072951202997-q9d07c1urlmj86svijk495pp6q9nc7p1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pe.indigital.tunki.business",
+            "certificate_hash": "5324f8aaca6ff26a8163f6de8ded34ca23daad6f"
+          }
+        },
+        {
+          "client_id": "1072951202997-a57981ll7lr30253tnkgur7nco9j6hhk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pe.indigital.tunki.business",
+            "certificate_hash": "edaebe284342726350c037dda233f2eb6e877174"
+          }
+        },
+        {
+          "client_id": "1072951202997-gp57ccppfe26mckkl0ngk2l6sncq9ed9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwnAWEfxgur3rQK3lHShdiPzNcGfUyTr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072951202997-gp57ccppfe26mckkl0ngk2l6sncq9ed9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1072951202997-jhlqneq6h1gjn0p7jk3f3jg9dj3lt4sb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "pe.indigital.tunki.user"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072951202997:android:605ea3467d65c20c",
+        "android_client_info": {
+          "package_name": "pe.indigital.tunki.business.poc1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072951202997-cciu7dchng3cg022vp34hmo3sfbit9k8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pe.indigital.tunki.business.poc1",
+            "certificate_hash": "5324f8aaca6ff26a8163f6de8ded34ca23daad6f"
+          }
+        },
+        {
+          "client_id": "1072951202997-gp57ccppfe26mckkl0ngk2l6sncq9ed9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwnAWEfxgur3rQK3lHShdiPzNcGfUyTr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072951202997-gp57ccppfe26mckkl0ngk2l6sncq9ed9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1072951202997-jhlqneq6h1gjn0p7jk3f3jg9dj3lt4sb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "pe.indigital.tunki.user"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072951202997:android:28fafe3a851bbc6a",
+        "android_client_info": {
+          "package_name": "pe.indigital.tunki.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072951202997-kbljob06qr6ipiq357p95s6tlhb70ao9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pe.indigital.tunki.user",
+            "certificate_hash": "5324f8aaca6ff26a8163f6de8ded34ca23daad6f"
+          }
+        },
+        {
+          "client_id": "1072951202997-8hplddgopm9558c6p6ms1pqlbsh1teoq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pe.indigital.tunki.user",
+            "certificate_hash": "82c397fd45518df5d5d9fe5704032596cb8cae5f"
+          }
+        },
+        {
+          "client_id": "1072951202997-ed4t8t18n9qlhnsp8qnnj14ted3p9nd0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pe.indigital.tunki.user",
+            "certificate_hash": "edaebe284342726350c037dda233f2eb6e877174"
+          }
+        },
+        {
+          "client_id": "1072951202997-gp57ccppfe26mckkl0ngk2l6sncq9ed9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwnAWEfxgur3rQK3lHShdiPzNcGfUyTr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072951202997-gp57ccppfe26mckkl0ngk2l6sncq9ed9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1072951202997-jhlqneq6h1gjn0p7jk3f3jg9dj3lt4sb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "pe.indigital.tunki.user"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072951202997:android:0be6846420b8c440",
+        "android_client_info": {
+          "package_name": "pe.indigital.tunki.user.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072951202997-nu3ojkjais1h4l4g6eth81mcl9tehvo5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pe.indigital.tunki.user.myapplication",
+            "certificate_hash": "5324f8aaca6ff26a8163f6de8ded34ca23daad6f"
+          }
+        },
+        {
+          "client_id": "1072951202997-gp57ccppfe26mckkl0ngk2l6sncq9ed9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwnAWEfxgur3rQK3lHShdiPzNcGfUyTr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072951202997-gp57ccppfe26mckkl0ngk2l6sncq9ed9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1072951202997-jhlqneq6h1gjn0p7jk3f3jg9dj3lt4sb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "pe.indigital.tunki.user"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
